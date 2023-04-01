@@ -12,6 +12,17 @@
     "test": "node ./test",
     "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoannchb-pro/chromeSpeechRecognition.git"
+  },
+  "keywords": [
+    "chrome",
+    "puppeteer",
+    "headless",
+    "speech-to-text",
+    "speech-recognition"
+  ],
   "author": "yoannchb",
   "license": "ISC",
   "dependencies": {
