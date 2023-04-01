@@ -1,0 +1,25 @@
+{
+  "name": "test-voc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "event-emitter": "^0.3.5",
+    "ffi-napi": "^4.0.3",
+    "puppeteer-core": "^19.8.0",
+    "ref-napi": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/ffi-napi": "^4.0.7",
+    "@types/ref-napi": "^3.0.7"
+  }
+}
