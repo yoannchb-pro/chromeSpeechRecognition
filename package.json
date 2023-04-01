@@ -1,8 +1,9 @@
 {
   "name": "chrome-speech-recognition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Access chrome SpeechRecognition with puppeteer in headless mode",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "files": [
     "dist",
     "test",
