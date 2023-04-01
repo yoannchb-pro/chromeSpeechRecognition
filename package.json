@@ -1,16 +1,18 @@
 {
-  "name": "test-voc",
+  "name": "chrome-speech-recognition",
   "version": "1.0.0",
-  "description": "",
+  "description": "Access chrome SpeechRecognition with puppeteer in headless mode",
   "main": "index.js",
   "files": [
-    "dist"
+    "dist",
+    "test",
+    "tsconfig.json"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node ./test",
     "build": "tsc"
   },
-  "author": "",
+  "author": "yoannchb",
   "license": "ISC",
   "dependencies": {
     "event-emitter": "^0.3.5",

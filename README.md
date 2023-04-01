@@ -2,6 +2,14 @@
 
 Access chrome SpeechRecognition with puppeteer in headless mode
 
+> NOTE: You will need to put chrome in the source directory
+
+## Install
+
+```
+$ npm i chrome-speech-recognition
+```
+
 ## Import
 
 ```js
