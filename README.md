@@ -13,9 +13,9 @@ $ npm i chrome-speech-recognition
 ## Import
 
 ```js
-import chromeSpeechRecognition from "chromeSpeechRecognition";
+import chromeSpeechRecognition from "chrome-speech-recognition";
 //or
-const chromeSpeechRecognition = require("chromeSpeechRecognition").default;
+const chromeSpeechRecognition = require("chrome-speech-recognition").default;
 ```
 
 ## Example
